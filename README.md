@@ -32,4 +32,4 @@ Use flutter to development web
 
 ### Animated:
 
-![video](https://github.com/jun870805/flutter_web/blob/main/achievement/home_video.mov)
+[video](https://github.com/jun870805/flutter_web/blob/main/achievement/home_video.mov)
